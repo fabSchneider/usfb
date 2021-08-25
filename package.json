@@ -8,5 +8,18 @@
     "name": "G\u00f6khan G\u00f6k\u00e7e",
     "email": "gkngkc@gmail.com"
   },
-  "scopedRegistries": []
+  "scopedRegistries": [],
+  "samples": [
+  {
+    "displayName": "Basic Sample",
+    "description": "A basic example using the standalone file browser",
+    "path": "Samples~/BasicSample"
+  },
+  {
+    "displayName": "Canvas Sample",
+    "description": "An example using the canvas in combination with the standalone file browser",
+    "path": "Samples~/CanvasSample"
+  }
+
+]
 }
